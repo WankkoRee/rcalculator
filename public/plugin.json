@@ -1,7 +1,7 @@
 {
     "pluginName": "Code计算器",
     "description": "rcalculator",
-    "author": "Ribs",
+    "author": "Wankko Ree",
     "main": "index.html",
     "preload": "preload.js",
     "logo": "logo6.png",
